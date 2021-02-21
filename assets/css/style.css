@@ -264,7 +264,7 @@ section {
 	display: flex;
 }
 .slide {
-	width: 439px;
+	width: 28.8%;
 }
 .slide:hover .image img{
 	transform: scale(1.1, 1.1);
