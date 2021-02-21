@@ -182,7 +182,7 @@ section {
 	color: #444444;
 	margin-bottom: 40px;
 }
-.image {
+.section_image {
 	text-align: center;
 	padding-bottom: 0;
 }
@@ -261,6 +261,7 @@ section {
 }
 .slider {
 	display: flex;
+	margin-bottom: 40px;
 }
 .slide {
 	width: 439px;
