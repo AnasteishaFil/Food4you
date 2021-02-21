@@ -213,6 +213,7 @@ section {
 .btn__order {
 	display: flex;
 	justify-content: space-around;
+	padding-bottom: 120px;
 }
 .btn_order {
 	font-size: 15px;
