@@ -282,6 +282,9 @@ section {
 	text-align: center;
 }
 .images {
+	width: 100%;
+	max-width: 1230px;
+	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
 	position: relative;
