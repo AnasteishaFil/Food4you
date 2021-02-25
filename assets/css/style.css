@@ -168,6 +168,7 @@ header {
 
 section {
 	padding: 40px 0;
+	display: block;
 }
 .section_header {
 	width: 100%;
