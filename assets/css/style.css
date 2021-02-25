@@ -286,6 +286,7 @@ section {
 	margin: 0 auto 20px;
 	padding: 120px 0;
 	text-align: center;
+	display: block;
 }
 .images {
 	width: 100%;
