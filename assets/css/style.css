@@ -27,13 +27,11 @@ h1, h2, h3, h4, h5, h6 {margin: 0};
 .intro_container {
 	width: 100%;
 	max-width: 620px;
-	margin: 0 0;
 }
 .intro_inner{
 	width: 100%;
 	max-width: 550px;
-	margin: 106px;
-	padding-top: 100px;
+	margin: 225px 110px;
 	text-align: center;
 }
 .intro_suptitle {
@@ -267,6 +265,7 @@ section {
 	margin-bottom: 60px;
 }
 .slider {
+	width: 100%;
 	display: flex;
 }
 .slide {
@@ -285,10 +284,8 @@ section {
 	max-width: 1230px;
 	margin: 0 auto 20px;
 	padding: 120px 0;
-	text-align: center;
 }
 .images {
-	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
 	position: relative;
